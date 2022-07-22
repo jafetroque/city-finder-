@@ -1,12 +1,12 @@
 # create lists of cities
-tropicCity = [1, 2, 3, 4, 5, 6, 7, 8]
-desertCity = [9, 10, 11, 12, 13, 14, 15, 16]
-east = [1, 2, 3, 4, 9, 10, 11, 12]
-west = [5, 6, 7, 8, 13, 14, 15, 16]
-urban = [1, 2, 5, 6, 9, 10, 13, 14]
-rural = [3, 4, 7, 8, 11, 12, 15, 16]
-northern = [1, 3, 5, 7, 9, 11, 13, 15]
-southern = [2, 4, 6, 8, 10, 12, 14, 16]
+tropicCity = ["Bangkok", "Papua", "Ayun Pa", "Tanete", "Miami", "Sao Paulo", "Xpujil", "Juara"]
+desertCity = ["Riyadh", "Antananarivo", "Tsogtchandman", "Mhamid", "Las Vegas", "Lima", "Kotzebue", "Toconao"]
+east = ["Bangkok", "Papua", "Ayun Pa", "Tanete", "Riyadh", "Antananarivo", "Tsogtchandman", "Mhamid"]
+west = ["Miami", "Sao Paulo", "Xpujil", "Juara", "Las Vegas", "Kotzebue", "Toconao"]
+urban = ["Bangkok", "Papua", "Miami", "Sao Paulo", "Riyadh", "Antananarivo", "Las Vegas", "Lima"]
+rural = ["Ayun Pa", "Tanete", "Xpujil", "Juara", "Tsogtchandman", "Mhamid", "Kotzebue", "Toconao"]
+northern = ["Bangkok", "Ayun Pa", "Miami", "Xpujil", "Riyadh", "Tsogtchandman", "Las Vegas", "Kotzebue"]
+southern = ["Papua", "Tanete", "Sao Paulo", "Juara", "Antananarivo", "Mhamid", "Lima", "Toconao"]
 
 # create empty lists
 choice1 = []
